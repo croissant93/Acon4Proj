@@ -15,6 +15,10 @@ ploskdjhf]
 NONONONONONONONONONONONONONNO
 안녕왜안돼니
 합치는방법
+<<<<<<< HEAD
 나도나도
+=======
+testtest
+>>>>>>> refs/heads/merge_kjy
 </body>
 </html>
