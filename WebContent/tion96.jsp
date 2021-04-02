@@ -8,7 +8,6 @@
 </head>
 <body>
 	tion96 page
-	test
-	1234
+	test1234
 </body>
 </html>
