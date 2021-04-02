@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	tion96 page
-	test12345
+	자라나렴 가지가지 
 </body>
 </html>
