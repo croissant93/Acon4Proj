@@ -8,6 +8,11 @@
 </head>
 <body>
 	tion96 page
+<<<<<<< HEAD
 	test123
+=======
+	test
+	testtesttesst
+>>>>>>> branch 'master' of https://github.com/croissant93/Acon4Proj
 </body>
 </html>
