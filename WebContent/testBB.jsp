@@ -8,7 +8,7 @@
 </head>
 <body>
 TEST PAGE 
-test123
-지예가 추가 > 변경연습
+
+충돌 해결 연습
 </body>
 </html>
