@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-TEST PAGE 
-
-충돌 해결 연습
+TestFile
 </body>
 </html>

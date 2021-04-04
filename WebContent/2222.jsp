@@ -8,7 +8,18 @@
 </head>
 <body>
 TEST PAGE 
-
-충돌 해결 연습
+test123
+지예가 추가
+왜 추가가 안될까요
+ploskdjhf]
+NONONONONONONONONONONONONONNO
+안녕왜안돼니
+합치는방법
+<<<<<<< HEAD
+나도나도
+=======
+testtest
+>>>>>>> refs/heads/merge_kjy
+ajskdhfkiweuh
 </body>
 </html>

@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	tion96 page
-	test
+	123
 </body>
 </html>
