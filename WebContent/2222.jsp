@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+<<<<<<< HEAD
 TEST PAGE 
 test123
 지예가 추가
@@ -20,5 +21,9 @@ NONONONONONONONONONONONONONNO
 =======
 testtest
 >>>>>>> refs/heads/merge_kjy
+=======
+jkk
+
+>>>>>>> refs/heads/croissant93
 </body>
 </html>
