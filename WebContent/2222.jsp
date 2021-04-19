@@ -7,11 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-TEST PAGE 
-test123
-지예가 추가
-왜 추가가 안될까요
-ploskdjhf
+jkk
 
 </body>
 </html>
