@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<<<<<<< HEAD
 TEST PAGE 
 test123
 지예가 추가
@@ -16,7 +15,7 @@ ploskdjhf]
 NONONONONONONONONONONONONONNO
 안녕왜안돼니
 합치는방법
-<<<<<<< HEAD
+
 나도나도
 =======
 testtest
